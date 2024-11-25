@@ -34,7 +34,7 @@ flutter run
 
 
 Screenshots 🖼️
-![fiction fusion ](https://github.com/user-attachments/assets/fade6dc0-e95b-49c1-aecf-b70cfe645a78)
+![fiction fusion6](https://github.com/user-attachments/assets/b80c1651-54ac-4297-94c5-0e96663f0ae9)
 ![fictionFusion2](https://github.com/user-attachments/assets/26cd8df8-b072-472c-bc34-b48ddd001574)
 ![fictionFusion3](https://github.com/user-attachments/assets/8ab594b1-b723-4fe9-99e3-015026f7691e)
 ![fictionFusion4](https://github.com/user-attachments/assets/b94b05c8-1383-4186-8ca2-4c5d99f66047)
