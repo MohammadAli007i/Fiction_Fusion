@@ -25,25 +25,23 @@ Firebase Authentication: To manage user logins securely.
 Installation ⚙️
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/FictionFusion.git  
-cd FictionFusion  
+git clone https://github.com/yourusername/FictionFusion.git cd FictionFusion 
+
+
 Install dependencies:
 
-bash
-Copy code
 flutter pub get  
-Set up Firebase:
 
+Set up Firebase:
 Create a Firebase project and enable Firestore and Authentication.
 Download the google-services.json (for Android) or GoogleService-Info.plist (for iOS) file.
 Place the file(s) in the appropriate directories.
-Run the app:
 
-bash
-Copy code
+
+Run the app:
 flutter run  
+
+
 Screenshots 🖼️
 ![fiction fusion ](https://github.com/user-attachments/assets/fade6dc0-e95b-49c1-aecf-b70cfe645a78)
 ![fictionFusion2](https://github.com/user-attachments/assets/26cd8df8-b072-472c-bc34-b48ddd001574)
@@ -51,21 +49,20 @@ Screenshots 🖼️
 ![fictionFusion4](https://github.com/user-attachments/assets/b94b05c8-1383-4186-8ca2-4c5d99f66047)
 
 Contribution 🤝
-Contributions are welcome!
 
-Fork the repository.
 Create a new branch:
-bash
-Copy code
+
 git checkout -b feature/your-feature  
+
+
 Make your changes and commit:
-bash
-Copy code
+
 git commit -m "Added new feature"  
 Push to the branch:
-bash
-Copy code
+
 git push origin feature/your-feature  
+
+
 Submit a pull request.
 
 Contact 📧
