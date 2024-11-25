@@ -22,15 +22,6 @@ Technologies Used 🚀
 Flutter: For cross-platform app development.
 Firebase Firestore: For backend database management.
 Firebase Authentication: To manage user logins securely.
-Installation ⚙️
-Clone the repository:
-
-git clone https://github.com/yourusername/FictionFusion.git cd FictionFusion 
-
-
-Install dependencies:
-
-flutter pub get  
 
 Set up Firebase:
 Create a Firebase project and enable Firestore and Authentication.
@@ -48,26 +39,12 @@ Screenshots 🖼️
 ![fictionFusion3](https://github.com/user-attachments/assets/8ab594b1-b723-4fe9-99e3-015026f7691e)
 ![fictionFusion4](https://github.com/user-attachments/assets/b94b05c8-1383-4186-8ca2-4c5d99f66047)
 
-Contribution 🤝
 
-Create a new branch:
-
-git checkout -b feature/your-feature  
-
-
-Make your changes and commit:
-
-git commit -m "Added new feature"  
-Push to the branch:
-
-git push origin feature/your-feature  
-
-
-Submit a pull request.
-
-Contact 📧
-For any queries or suggestions, feel free to reach out:
 
 Name: Mohammad Ali
+
+
 Email: Hhch1604@gmail.com
+
+
 LinkedIn: https://www.linkedin.com/in/mohammad-ali-2ab7a4205/
