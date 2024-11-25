@@ -32,8 +32,11 @@ Place the file(s) in the appropriate directories.
 Run the app:
 flutter run  
 
-
 Screenshots 🖼️
+
+
+
+
 ![fiction fusion6](https://github.com/user-attachments/assets/b80c1651-54ac-4297-94c5-0e96663f0ae9)
 ![fictionFusion7](https://github.com/user-attachments/assets/9bf536de-c8c6-414a-b407-e679342c37b9)
 ![fictionFusion3](https://github.com/user-attachments/assets/88e92e6f-f3c7-41fa-a1d6-ede3ee293db7)
